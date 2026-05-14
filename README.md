@@ -34,11 +34,13 @@ Built with **Next.js**, **TailwindCSS**, and the **OpenAI API**, this assistant 
 ```bash
 git clone https://github.com/your-username/chemistry-assistant.git
 cd chemistry-assistant
+```
 
 ### 2. Install dependencies
 
 ```baxh
 npm install
+```
 
 ### 3. Create .env.local file
 
@@ -52,6 +54,6 @@ You can get an API key from OpenAI
 
 ```bash
 npm run dev
-
+```
 Open your browser at http://localhost:3000
 
